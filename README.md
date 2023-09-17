@@ -45,3 +45,8 @@ Retrofit dependencies
 Dependency to avoid duplicate class found Error
 
     implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+
+
+
+    
+https://github.com/mohitkumarsoni/AndroidRetrofit_Plus_SpringBoot_HotelMenu_App-with-FrontEnd-and-BackEnd/assets/108524949/317035ec-7436-4533-b631-fbbf37800c65
